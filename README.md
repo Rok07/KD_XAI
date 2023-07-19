@@ -42,7 +42,7 @@ If our work is helpful, please cite the following paper.
 ```
 @inproceedings{Han2023,
   title={On the Impact of Knowledge Distillation for Model Interpretability},
-  author={Hyeongrok, Han and Siwon, Kim and Hyun-SOO, Choi and Sungroh, Yoon},
+  author={Hyeongrok, Han and Siwon, Kim and Hyun-Soo, Choi and Sungroh, Yoon},
   booktitle={International Conference on Machine Learning},
   year={2023}
 }
